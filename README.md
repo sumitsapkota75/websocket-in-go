@@ -1,2 +1,0 @@
-# websocket-in-go
-
