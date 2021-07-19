@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	handlers "websocket/handlers"
+	handlers "webscoket/handlers"
 
 	"github.com/gorilla/mux"
 	"github.com/gorilla/websocket"
